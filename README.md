@@ -2,6 +2,6 @@
 Projects done in foundation year 
 
 **Python Projects**
-1. Book Library
+1. Library Management System
 2. Music Player
-3. Pivot Moment Program
+3. Physics Moment Simulation
